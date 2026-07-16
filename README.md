@@ -1,6 +1,6 @@
-# MoriCart
+# MenteCart
 
-# MoriCart — Service Booking App
+# MenteCart — Service Booking App
 
 A full-stack service booking application where users can browse services, add them to a cart with date/time slots, and complete bookings.
 
