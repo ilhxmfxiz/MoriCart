@@ -1,4 +1,4 @@
-# mentecart
+# moricart
 
 A new Flutter project.
 
