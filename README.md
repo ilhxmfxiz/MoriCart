@@ -1,6 +1,6 @@
-# MenteCart
+# MoriCart
 
-# MenteCart — Service Booking App
+# MoriCart — Service Booking App
 
 A full-stack service booking application where users can browse services, add them to a cart with date/time slots, and complete bookings.
 
@@ -162,15 +162,9 @@ flutter run
 | MONGO_URI | MongoDB Atlas connection string |
 | JWT_SECRET | Secret key for JWT signing |
 
----
-
-## Demo Video
-
-[Google Drive Link — insert here]
 
 ---
 
 ## Developer
 
-**Aman Zahir**
-Assessment for GlobalTNA Internship — May 2026
+**Ilham Faiz**
