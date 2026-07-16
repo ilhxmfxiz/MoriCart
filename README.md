@@ -4,7 +4,6 @@
 
 A full-stack service booking application where users can browse services, add them to a cart with date/time slots, and complete bookings.
 
-Built as a technical assessment for GlobalTNA.
 
 ---
 
